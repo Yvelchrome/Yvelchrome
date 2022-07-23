@@ -2,8 +2,6 @@
 
 # Hi, I'm Steven! <img width="36px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
-<br/>
-
 ## 👨‍💻 About Me
 
 I'm a front-end developer with a passion for building beautiful, responsive, and functional websites.
@@ -41,6 +39,7 @@ I also enjoy wireframing, UI, UX, and design in general.
 
 ![](https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=E44C30)
 ![](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![](https://img.shields.io/badge/Adobe%20Photoshop-323330?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF)
 ![](https://img.shields.io/badge/Visual_Studio_Code-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=007ACC)
 <br/><br/>
 
