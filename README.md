@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/55931217/179748467-bf3a942a-737a-4415-8dda-75226224597c.png)
+![Banner](https://user-images.githubusercontent.com/55931217/184616144-25680399-ccc8-4c75-a063-aac533c1221d.png)
 
 # Hi, I'm Steven! <img width="36px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
@@ -47,6 +47,3 @@ I also enjoy wireframing, UI, UX, and design in general.
 
 ![](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC)
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yvelchrome&langs_count=4&theme=github_dark"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Yvelchrome&count_private=true&show_icons=true&theme=github_dark"/> -->
