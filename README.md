@@ -22,28 +22,30 @@ I also enjoy wireframing, UI, UX, and design in general.
 
 ### Front End
 
-![](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
-![](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=007ACC)
-![](https://img.shields.io/badge/Scss-323330?style=for-the-badge&logo=sass&logoColor=CC6699)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=007ACC)
+![SCSS](https://img.shields.io/badge/Scss-323330?style=for-the-badge&logo=sass&logoColor=CC6699)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Back End
 
-![](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=007ACC)
+![PHP](https://img.shields.io/badge/PHP-323330?style=for-the-badge&logo=php&logoColor=007ACC)
 
 ### Database
 
-![](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=007ACC)
+![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=mysql&logoColor=007ACC)
 
 ### Others
 
-![](https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=E44C30)
-![](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![](https://img.shields.io/badge/Adobe%20Photoshop-323330?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF)
-![](https://img.shields.io/badge/Visual_Studio_Code-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/GIT-323330?style=for-the-badge&logo=git&logoColor=E44C30)
+![Figma](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-323330?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=007ACC)
 <br/><br/>
 
 ## 🌱 What I am currently learning
 
-![](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=Next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-323330?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
