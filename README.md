@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/55931217/184616144-25680399-ccc8-4c75-a063-aac533c1221d.png)
+![Banner](https://user-images.githubusercontent.com/55931217/190416590-e5f11866-ddd0-4d48-b4f1-8567fa36700a.png)
 
 # Hi, I'm Steven! <img width="36px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
@@ -7,6 +7,8 @@
 I'm a front-end developer with a passion for building beautiful, responsive, and functional websites.
 <br/>
 I'm currently studying at [HETIC](https://www.hetic.net) in Paris.
+<br/>
+Works for [Subskill](https://www.subskill.com) as a front-end developer.
 <br/>
 I also enjoy wireframing, UI, UX, and design in general.
 <br/><br/>
