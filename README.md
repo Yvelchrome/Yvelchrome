@@ -15,8 +15,8 @@ I also enjoy wireframing, UI, UX, and design in general.
 
 ## 🌐 Socials
 
-![](https://dcbadge.vercel.app/api/shield/507676625681514501?compact=true)
-[![](https://img.shields.io/badge/Steven godin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-godin/)
+![](https://dcbadge.limes.pink/api/shield/507676625681514501?compact=true)
+[![](https://img.shields.io/badge/Steven_godin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-godin/)
 [![](https://img.shields.io/badge/stevengodin78@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevengodin78@gmail.com)
 <br/><br/>
 
@@ -24,10 +24,9 @@ I also enjoy wireframing, UI, UX, and design in general.
 
 ### Front End
 
-![HTML](https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=007ACC)
 ![SCSS](https://img.shields.io/badge/Scss-323330?style=for-the-badge&logo=sass&logoColor=CC6699)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-323330?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Back End
 
@@ -43,11 +42,11 @@ I also enjoy wireframing, UI, UX, and design in general.
 ![Figma](https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-323330?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-323330?style=for-the-badge&logo=visual%20studio%20code&logoColor=007ACC)
+![PHPStorm](http://img.shields.io/badge/-PHPStorm-323330?style=for-the-badge&logo=phpstorm&logoColor=white)
 <br/><br/>
 
 ## 🌱 What I am currently learning
 
-![React](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![Next.js](https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=Next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-323330?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
