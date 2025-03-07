@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/998abe54-7861-4b85-8ae3-3d3e49d6e2ef)
+![Banner](https://github.com/user-attachments/assets/7b656dab-ed0a-4445-a649-73a762ea6d4a)
 
 # Hi, I'm Steven! 👋
 
